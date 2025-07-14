@@ -1,0 +1,50 @@
+{
+    "username": "kojied",
+    "age": "25–35 (estimated)",
+    "occupation": "Enthusiastic hobbyist / likely tech-savvy professional",
+    "status": "Unknown",
+    "location": "Likely US-based (inferred from frequent participation in U.S. city and gaming subs)",
+    "tier": "Casual Gamer & Community Participant",
+    "archetype": "The Thoughtful Strategist",
+    "traits": [
+        "Analytical",
+        "Helpful",
+        "Curious",
+        "Detail‑oriented"
+    ],
+    "motivations": {
+        "Convenience": 3,
+        "Wellness": 2,
+        "Speed": 3,
+        "Preferences": 4,
+        "Comfort": 3,
+        "Dietary Needs": 2
+    },
+    "personality": {
+        "Introvert": 4,
+        "Extrovert": 2,
+        "Intuition": 3,
+        "Sensing": 4,
+        "Feeling": 3,
+        "Thinking": 4,
+        "Perceiving": 4,
+        "Judging": 2
+    },
+    "behavior": [
+        "Offers strategic tips in niche gaming subs (e.g., ManorLords, Civ5)",
+        "Engages thoughtfully in AI/ChatGPT discussions",
+        "Participates in local city conversation (e.g., food or lifestyle)",
+        "Answers product questions in skincare or hobby communities"
+    ],
+    "frustrations": [
+        "Doesn’t tolerate vague or low‑effort questions",
+        "Avoids toxic or unmoderated threads",
+        "Annoyed by misinformation or lack of clarity"
+    ],
+    "goals": [
+        "Help others by sharing clear, well‑reasoned advice",
+        "Stay updated on games, AI, and community topics",
+        "Maintain positive, informative community presence"
+    ],
+    "quote": "“Sorry to hear that man, you might want to...”“imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted.”"
+}
