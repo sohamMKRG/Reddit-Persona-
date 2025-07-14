@@ -1,4 +1,4 @@
-# 🧠 Reddit Persona
+# 🧠 Reddit User Persona Scraper
 
 This project (`Reddit Persona`) extracts a detailed **user persona** from any public Reddit profile by analyzing their posts and comments using OpenAI’s GPT API.
 
